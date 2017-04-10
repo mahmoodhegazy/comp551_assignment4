@@ -1,0 +1,4 @@
+*.npy
+tensorflow
+data/
+bottlenecks/
